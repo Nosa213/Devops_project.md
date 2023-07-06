@@ -1,2 +1,2 @@
-# Devops_project.md
+# Devops_project
 Kubernetes
